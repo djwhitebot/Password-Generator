@@ -30,7 +30,7 @@ Building something is the best way to take class concepts and see their applicat
 
 ## Usage
 
-This is a quick and easy way to generate a random password for any account. Feel free to play around with the valuesin the arrays if you'd like different potential outputs for your password.
+This is a quick and easy way to generate a random password for any account. Feel free to play around with the values in the arrays if you'd like different potential outputs for your password.
     
 
 
